@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+joblib
+numpy
+kafka-python
+psycopg2-binary
+redis
+streamlit
+xgboost
+seaborn
+matplotlib
